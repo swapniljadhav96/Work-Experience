@@ -3,14 +3,11 @@
 </a>
 
 <a href="https://www.scatterpie.io/" target="_blank" style="display:inline-flex; align-items:center; text-decoration:none;">
- <img src="https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/ScatterPie%20Analytics%20banner.png" alt="Tableau">
+ <img src="https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/ScatterPie%20Analytics%20banner.png" alt="ScatterPie Banner">
 </a>
-
-![](https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/ScatterPie%20Analytics%20banner.png)
 
 **Role:** Business Intelligence Analyst  
 **Duration:** [Add your duration here, e.g., Jan 2024 – Jul 2024] <br>
-🌐 [Company URL](https://www.scatterpie.io/)
 
 ---
 
