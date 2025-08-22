@@ -1,11 +1,10 @@
 # 💼 Professional Experience Portfolio  
 
 Welcome to my **Company Experience Repository** 👋  
-Here I share details of the companies I’ve worked with, my roles, responsibilities, and key projects.  
+Here I share details of the companies I have worked with, my roles, responsibilities, and key projects.  
 
 ## 🔗 Quick Access
-- [Company A – BI Analyst](./Company_A/README.md)  
-- [Company B – Data Science Intern](./Company_B/README.md)  
+- [Company A – ScatterPie Analytics](https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/README.md)  
 
 ---
 
