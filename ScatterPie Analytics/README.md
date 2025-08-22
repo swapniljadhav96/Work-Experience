@@ -1,4 +1,4 @@
-# [🏢 ScatterPie Analytics](https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/scatterpie-blue-logo.png)
+# ![](https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/scatterpie-blue-logo.png)
 
 ![](https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/ScatterPie%20Analytics%20banner.png)
 
