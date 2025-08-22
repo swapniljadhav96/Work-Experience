@@ -7,7 +7,7 @@
 </a>
 
 **Role:** Business Intelligence Analyst  
-**Duration:** [Add your duration here, e.g., Jan 2024 – Jul 2024] <br>
+**Duration:** [Jun 2025 – Present]
 
 ---
 
