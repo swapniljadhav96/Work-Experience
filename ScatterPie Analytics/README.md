@@ -4,7 +4,7 @@
 
 **Role:** Business Intelligence Analyst  
 **Duration:** [Add your duration here, e.g., Jan 2024 – Jul 2024]
-🌐 Company URL: [](https://www.scatterpie.io/)
+🌐 [Company URL](https://www.scatterpie.io/)
 
 ---
 
