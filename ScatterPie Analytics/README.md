@@ -28,25 +28,7 @@ ScatterPie Analytics is a data-driven consulting firm specializing in **Data Eng
 
 ## 📊 Key Projects at ScatterPie Analytics  
 
-1. **📈 Sales Performance Dashboard**  
-   - Analyzed revenue trends, top-performing regions, and product categories.  
-   - KPIs: Total Sales, Profit %, YoY Growth, Customer Acquisition.  
-   - Tools: Tableau, SQL.  
-
-2. **👥 HR Analytics Dashboard**  
-   - Tracked workforce demographics, attrition, and training effectiveness.  
-   - KPIs: Retention Rate, Engagement Score, Avg Tenure, Training ROI.  
-   - Tools: Tableau, Excel.  
-
-3. **📦 Customer Churn Analysis**  
-   - Identified high-risk customers and predicted churn probability.  
-   - Insights helped in designing **retention strategies**.  
-   - Tools: Tableau, Python (Scikit-learn for churn model).  
-
-4. **📊 Finance Insights Dashboard**  
-   - Automated reporting for expense management and ROI analysis.  
-   - KPIs: Revenue vs Expenses, ROI %, Cost per Department.  
-   - Tools: Tableau, Excel.  
+1. [Click here](https://github.com/swapniljadhav96/Tableau)
 
 ---
 
