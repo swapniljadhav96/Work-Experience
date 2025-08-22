@@ -2,6 +2,10 @@
  <img src="https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/scatterpie-blue-logo.png" alt="Tableau" width="100" height="50">
 </a>
 
+<a href="https://www.scatterpie.io/" target="_blank" style="display:inline-flex; align-items:center; text-decoration:none;">
+ <img src="https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/ScatterPie%20Analytics%20banner.png" alt="Tableau">
+</a>
+
 ![](https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/ScatterPie%20Analytics%20banner.png)
 
 **Role:** Business Intelligence Analyst  
