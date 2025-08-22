@@ -12,8 +12,7 @@
 ---
 
 ## 🏙️ About the Company  
-ScatterPie Analytics is a data-driven consulting firm specializing in **Business Intelligence, Data Visualization, and Advanced Analytics**.  
-They help clients unlock insights from raw data using tools like **Tableau, Power BI, SQL, and Python**, enabling smarter decision-making and measurable business growth.  
+ScatterPie Analytics is a data-driven consulting firm specializing in **Data Engineering, Business Intelligence, Advanced Analytics with AI & ML, Geospatial Analytics and Custom Development**. They help clients unlock insights from raw data using tools like **Tableau, Power BI, Qlik and SQL**, enabling smarter decision-making and measurable business growth.  
 
 ---
 
