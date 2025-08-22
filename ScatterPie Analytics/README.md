@@ -3,7 +3,7 @@
 ![](https://github.com/swapniljadhav96/Work-Experience/blob/main/ScatterPie%20Analytics/ScatterPie%20Analytics%20banner.png)
 
 **Role:** Business Intelligence Analyst  
-**Duration:** [Add your duration here, e.g., Jan 2024 – Jul 2024]
+**Duration:** [Add your duration here, e.g., Jan 2024 – Jul 2024] <br>
 🌐 [Company URL](https://www.scatterpie.io/)
 
 ---
